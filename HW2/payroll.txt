@@ -1,0 +1,6 @@
+Lambert 34 10.50
+Osborne 22 6.25
+Giacometti 5 100.70
+Nancy 30 15
+Jeff 40 20.50
+Sam 25 50
